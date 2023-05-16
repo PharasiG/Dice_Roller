@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="change_current_sides">Change Current Sides</string>
+    <string name="current_sides">Current Sides :</string>
+    <string name="_6">6</string>
+    <string name="roll">Roll</string>
+    <string name="dice_image">Dice Image</string>
+</resources>
